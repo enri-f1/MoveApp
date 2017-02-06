@@ -1,0 +1,245 @@
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+h1, h2, a {
+	font-family: Futura, sans-serif;
+}
+
+p {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.header{
+	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg);
+	background-size: cover;
+	height: 600px;
+	padding-top: 20px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+
+.header h1 {
+	position: relative;
+	font-size: 200px;
+	font-weight: 600;
+	color: #FDFEFE;
+	text-decoration: underline;
+	letter-spacing: -13px;
+	
+
+} 
+
+.header p {
+
+	text-transform: uppercase;
+	font-weight: 100;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+	color: #FDFEFE;
+	margin-top: -140px;
+
+
+}
+
+
+
+.container a {
+
+	background-color: black;
+	border-radius: 2px;
+	text-align: center;
+	display: inline-block;
+	font-size: 18px;
+	color: #FBFCFC;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	margin-top: 20px;
+	
+}
+
+.firstmidcolumn {
+	margin-right: -11px;
+}
+.firstmidcolumn .col{
+	width: 33%;
+	height: 300px;
+	float: left;
+	text-align: center;
+	color: white;
+	background-color: black;
+	
+}
+
+.col h2 {
+	text-transform: uppercase;
+	color:  #ffa800;
+	font-size: 40px;
+	font-weight: 600;
+	letter-spacing: -1px;
+	margin-top: 90px;
+	margin-bottom: 15px;
+
+}
+
+.col p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #efefef;
+}
+.clearfix {
+	clear: both;
+}
+
+.center {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg);
+	background-size: cover;	
+	height: 600px;
+	padding-top: 30px;
+	text-align: center;
+
+}
+
+.center h2{
+	
+	font-size: 55px;
+	text-transform: uppercase;
+	color: #FDFEFE;
+	letter-spacing: -3px;
+	padding-top: 250px;
+
+}
+
+.secondmidcolumn {
+	width: 100%;
+	height: 250px;
+	float: left;
+	text-align: center;
+	color: white;
+	background-color: black;
+	
+}
+
+.secondmidcolumn h2 {
+	text-transform: uppercase;
+	color:  #ffa800;
+	font-size: 40px;
+	font-weight: 600;
+	letter-spacing: -1px;
+	margin-top: 50px;
+	margin-bottom: -5px;
+}
+
+.secondmidcolumn a {
+	background-color: #E5EDF1;
+	border-radius: 2px;
+	text-align: center;
+	display: inline-block;
+	font-size: 18px;
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	margin-top: -30px;
+	
+	
+}
+
+.secondmidcolumn p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #efefef;
+	padding-top: 20px;
+	
+}
+
+.footer {
+	background-image: url(https://s3.amazonaws.com/codecademy-content/projects/move/footer.jpg);
+	background-size: cover;
+	height: 600px;
+	text-align: center;
+	clear: both;
+	
+}
+
+.footer h2 {
+	padding-top: 265px;
+	text-transform: uppercase;
+	color: #FDFEFE;
+	font-size: 35px;
+}
+
+a:hover {
+	transition: background .5s;
+	background-color: #E9C510  ;
+	color: black;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
